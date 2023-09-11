@@ -1,5 +1,5 @@
 ---
-title:  "Git is Github"
+title:  "Git has become centralized"
 categories: []
 tags: []
 ---
